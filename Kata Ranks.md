@@ -1,0 +1,12 @@
+White (Beginner)
+8 Kyu
+7 Kyu
+Yellow (Novice)
+6 Kyu
+5 Kyu
+Blue (Competent)
+4 Kyu
+3 Kyu
+Purple (Proficient)
+2 Kyu
+1 Kyu
